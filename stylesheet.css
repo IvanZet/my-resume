@@ -1,0 +1,60 @@
+div {
+    border-radius: 5px;
+    height: 540px;
+    font-family: Corbel, sans-serif;
+}
+#header {
+    z-index: 1;
+    height: 50px;
+    width: 97%;
+    background-color: #6b5b95;
+    position: fixed;
+    margin-top: -15px;
+    color: white;
+}
+#name {
+    float: left;
+    padding-left: 10px;
+}
+#email {
+    float: right;
+    padding-right: 10px;
+}
+.left {
+    width: 10%;
+    background-color: #878f99;
+    float: left;
+    position: relative;
+    margin-top: 44px;
+    margin-bottom: 8px;
+}
+.right {
+    width: 85%;
+    background-color: #b2ad7f;
+    float: right;
+    position: relative;
+    margin-top: 44px;
+    margin-bottom: 8px;
+    padding-left: 15px;
+}
+h3 {
+    margin-bottom: -5px;
+}
+h4 {
+    margin-top: -15px;
+}
+.right ul {
+    margin-top: -20px;
+}
+#footer {
+    height: 50px;
+    width: 100%;
+    background-color: #6b5b95;  
+    clear: both;
+    color: white;
+}
+#footer p {
+    position: relative;
+    padding-left: 10px;
+    padding-top: 15px;
+}

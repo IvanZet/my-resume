@@ -1,2 +1,2 @@
 # my-resume
-Web site showing my Recume
+Website showing my Recume

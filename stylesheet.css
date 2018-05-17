@@ -1,9 +1,9 @@
-div {
+header, footer, div {
     border-radius: 5px;
     height: 540px;
     font-family: Corbel, sans-serif;
 }
-#header {
+header {
     z-index: 1;
     height: 50px;
     width: 97%;
@@ -57,14 +57,14 @@ h4 {
 .right ul {
     margin-top: -20px;
 }
-#footer {
+footer {
     height: 50px;
     width: 100%;
     background-color: #6b5b95;  
     clear: both;
     color: white;
 }
-#footer p {
+footer p {
     position: relative;
     padding-left: 10px;
     padding-top: 15px;
